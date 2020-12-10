@@ -2,8 +2,8 @@
 、、、
 1.先创建远程仓库
 2.初始化本地仓库 git init 第一次之后不用
-                git add .
-3.提交          git commit -m "first commit "
+                git add .  [暂存]
+3.提交          git commit -m "first commit " 
 4.连接远程仓库   git remote add origin https://github.com/MIWV-TEAM/Miwv1_Front.git
 
 5.加载到远程    使用 git push -u origin master
