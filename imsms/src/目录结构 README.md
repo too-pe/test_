@@ -1,6 +1,7 @@
 # 本项目目前整体结构：
 
 [imsms]
+src
 -pages                        [网络页面]
 --page1                       [页面名]
 ---main_component             [一个网络页面的父组件]
